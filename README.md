@@ -60,9 +60,6 @@ Solution: Designed an interactive menu system with clearly defined options, allo
 Why This Design Works
 This design was chosen to ensure modularity, extensibility, and user-friendliness:
 
-Modularity: The program is divided into distinct components (e.g., user registration, workout tracking, equipment management), making it easy to update or extend specific features without affecting the rest of the system.
-Extensibility: Users can add new equipment or muscle parts as their fitness routines evolve, ensuring the system remains relevant to their needs.
-Progress Tracking: By providing detailed comparisons of progress over time, the program fosters motivation and engagement.
-Reduced Redundancy: By remembering previously used equipment, the program enhances efficiency and minimizes user frustration.
-User-Friendly Interface: The program uses an intuitive menu-driven system, supported by detailed prompts and error handling, ensuring accessibility for users with minimal technical expertise.
-Ultimately, this program was designed with a focus on providing a functional and engaging tool for fitness tracking, emphasizing adaptability and usability. While improvements can always be made, the current implementation addresses the key requirements effectively and lays a strong foundation for future enhancements.
+
+Ultimately, this program was designed with a focus on providing a functional and engaging tool for fitness tracking, emphasizing adaptability and usability. While it’s not perfect and still has some defects, improvements can always be made, the current implementation addresses the key requirements effectively and lays a strong foundation for future enhancements.
+
