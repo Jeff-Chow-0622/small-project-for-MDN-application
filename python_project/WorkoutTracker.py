@@ -76,7 +76,7 @@ class WorkoutTracker:
 
         Returns:
             str: A summary of the progress made or a message if data is missing.
-    """
+        """
         # Ensure both dates exist in records
         if date1 not in self.date_workouts or date2 not in self.date_workouts:
             return "One or both of the dates do not exist."
